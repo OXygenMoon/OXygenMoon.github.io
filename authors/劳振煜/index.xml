@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>劳振煜 on OXygenSpere</title>
+    <link>https://OXygenMoon.github.io/authors/%E5%8A%B3%E6%8C%AF%E7%85%9C/</link>
+    <description>Recent content in 劳振煜 on OXygenSpere</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2022 Lao Zhenyu
+</copyright>
+    <lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://OXygenMoon.github.io/authors/%E5%8A%B3%E6%8C%AF%E7%85%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python</title>
+      <link>https://OXygenMoon.github.io/docs/python/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://OXygenMoon.github.io/docs/python/</guid>
+      <description> 一级目录 二级目录 三级目录 </description>
+    </item>
+    
+  </channel>
+</rss>
