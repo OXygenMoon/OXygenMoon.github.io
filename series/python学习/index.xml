@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python学习 on OXygenSpere</title>
+    <link>https://OXygenMoon.github.io/series/python%E5%AD%A6%E4%B9%A0/</link>
+    <description>Recent content in Python学习 on OXygenSpere</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2022 Lao Zhenyu
+</copyright>
+    <lastBuildDate>Fri, 27 May 2022 13:55:00 +0800</lastBuildDate><atom:link href="https://OXygenMoon.github.io/series/python%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python选择题</title>
+      <link>https://OXygenMoon.github.io/posts/python_select/</link>
+      <pubDate>Fri, 27 May 2022 13:55:00 +0800</pubDate>
+      
+      <guid>https://OXygenMoon.github.io/posts/python_select/</guid>
+      <description>&lt;h2 id=&#34;习题&#34;&gt;习题&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>Python编程题</title>
+      <link>https://OXygenMoon.github.io/posts/python_coding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://OXygenMoon.github.io/posts/python_coding/</guid>
+      <description>Python 选择题  以下是网上收集整理的Python选择题, 可能存在错误, 如有错误可以邮件发送至laozhenyu_961112@163.com, 标体格式为&amp;lt;bug&amp;gt; Python习题: 题号 .
+ 1.以下关于函数参数的描述，正确的是： （）
+A：调用函数时，按参数名称传递的参数，要按照定义顺序进行传递
+B：定义函数可选参数的时候，不限制可选参数在参数列表中的位置
+C：函数在定义时可以不指定可选参数的默认值，调用函数的时候再传入参数
+D：在一个函数内部定义的变量，到另一个函数中不能引用
+2.以下程序的输出结果是：
+‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬def add_Run(L=None): if L is None: L = [] L.append(&#39;Run&#39;) return L add_Run() add_Run() print(add_Run([&#39;Lying&#39;]))  A： [&amp;lsquo;Lying&amp;rsquo;, &amp;lsquo;Run&amp;rsquo;, &amp;lsquo;Run&amp;rsquo;]
+B ：[&amp;lsquo;Run&amp;rsquo;][&amp;lsquo;Run&amp;rsquo;][&amp;lsquo;Lying&amp;rsquo;, &amp;lsquo;Run&amp;rsquo;]
+C： [&amp;lsquo;Lying&amp;rsquo;]
+D：[&amp;lsquo;Lying&amp;rsquo;, &amp;lsquo;Run&amp;rsquo;]</description>
+    </item>
+    
+  </channel>
+</rss>

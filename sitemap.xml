@@ -5,15 +5,33 @@
     <loc>https://OXygenMoon.github.io/others/pages/</loc>
   </url><url>
     <loc>https://OXygenMoon.github.io/authors/</loc>
-    <lastmod>2022-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-27T13:55:00+08:00</lastmod>
   </url><url>
     <loc>https://OXygenMoon.github.io/</loc>
-    <lastmod>2022-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-27T13:55:00+08:00</lastmod>
   </url><url>
-    <loc>https://OXygenMoon.github.io/docs/python/</loc>
-    <lastmod>2022-05-26T00:00:00+00:00</lastmod>
+    <loc>https://OXygenMoon.github.io/tags/python/</loc>
+    <lastmod>2022-05-27T13:55:00+08:00</lastmod>
+  </url><url>
+    <loc>https://OXygenMoon.github.io/series/python%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2022-05-27T13:55:00+08:00</lastmod>
+  </url><url>
+    <loc>https://OXygenMoon.github.io/posts/python_select/</loc>
+    <lastmod>2022-05-27T13:55:00+08:00</lastmod>
+  </url><url>
+    <loc>https://OXygenMoon.github.io/series/</loc>
+    <lastmod>2022-05-27T13:55:00+08:00</lastmod>
+  </url><url>
+    <loc>https://OXygenMoon.github.io/tags/</loc>
+    <lastmod>2022-05-27T13:55:00+08:00</lastmod>
   </url><url>
     <loc>https://OXygenMoon.github.io/authors/%E5%8A%B3%E6%8C%AF%E7%85%9C/</loc>
+    <lastmod>2022-05-27T13:55:00+08:00</lastmod>
+  </url><url>
+    <loc>https://OXygenMoon.github.io/posts/</loc>
+    <lastmod>2022-05-27T13:55:00+08:00</lastmod>
+  </url><url>
+    <loc>https://OXygenMoon.github.io/docs/python/</loc>
     <lastmod>2022-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://OXygenMoon.github.io/docs/</loc>
@@ -34,13 +52,7 @@
     <loc>https://OXygenMoon.github.io/authors/example-author/</loc>
     <lastmod>2021-03-31T13:11:22+08:00</lastmod>
   </url><url>
-    <loc>https://OXygenMoon.github.io/tags/</loc>
-    <lastmod>2021-03-31T13:11:22+08:00</lastmod>
-  </url><url>
     <loc>https://OXygenMoon.github.io/posts/a/</loc>
-    <lastmod>2021-03-31T13:11:22+08:00</lastmod>
-  </url><url>
-    <loc>https://OXygenMoon.github.io/posts/</loc>
     <lastmod>2021-03-31T13:11:22+08:00</lastmod>
   </url><url>
     <loc>https://OXygenMoon.github.io/authors/%E7%8E%8B%E7%90%A6%E4%BC%9F/</loc>
@@ -83,9 +95,6 @@
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://OXygenMoon.github.io/tags/image/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://OXygenMoon.github.io/series/</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://OXygenMoon.github.io/categories/themes/</loc>
@@ -132,6 +141,8 @@
     <loc>https://OXygenMoon.github.io/outline/python/outline/outline/</loc>
   </url><url>
     <loc>https://OXygenMoon.github.io/outline/python/</loc>
+  </url><url>
+    <loc>https://OXygenMoon.github.io/posts/python_coding/</loc>
   </url><url>
     <loc>https://OXygenMoon.github.io/outline/network/</loc>
   </url><url>

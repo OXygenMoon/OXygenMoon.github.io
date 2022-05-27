@@ -8,7 +8,16 @@
     <language>en</language>
     <copyright>&amp;copy; 2022 Lao Zhenyu
 </copyright>
-    <lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://OXygenMoon.github.io/authors/%E5%8A%B3%E6%8C%AF%E7%85%9C/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 May 2022 13:55:00 +0800</lastBuildDate><atom:link href="https://OXygenMoon.github.io/authors/%E5%8A%B3%E6%8C%AF%E7%85%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python选择题</title>
+      <link>https://OXygenMoon.github.io/posts/python_select/</link>
+      <pubDate>Fri, 27 May 2022 13:55:00 +0800</pubDate>
+      
+      <guid>https://OXygenMoon.github.io/posts/python_select/</guid>
+      <description>&lt;h2 id=&#34;习题&#34;&gt;习题&lt;/h2&gt;</description>
+    </item>
+    
     <item>
       <title>Python</title>
       <link>https://OXygenMoon.github.io/docs/python/</link>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on OXygenSpere</title>
+    <link>https://OXygenMoon.github.io/tags/python/</link>
+    <description>Recent content in python on OXygenSpere</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2022 Lao Zhenyu
+</copyright>
+    <lastBuildDate>Fri, 27 May 2022 13:55:00 +0800</lastBuildDate><atom:link href="https://OXygenMoon.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python选择题</title>
+      <link>https://OXygenMoon.github.io/posts/python_select/</link>
+      <pubDate>Fri, 27 May 2022 13:55:00 +0800</pubDate>
+      
+      <guid>https://OXygenMoon.github.io/posts/python_select/</guid>
+      <description>&lt;h2 id=&#34;习题&#34;&gt;习题&lt;/h2&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
