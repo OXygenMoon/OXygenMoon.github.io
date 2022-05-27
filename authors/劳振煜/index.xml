@@ -18,5 +18,14 @@
       <description> 一级目录 二级目录 三级目录 </description>
     </item>
     
+    <item>
+      <title>代码片段</title>
+      <link>https://OXygenMoon.github.io/posts/a/</link>
+      <pubDate>Wed, 31 Mar 2021 13:11:22 +0800</pubDate>
+      
+      <guid>https://OXygenMoon.github.io/posts/a/</guid>
+      <description>&lt;p&gt;此处是摘要. Here is abstract.&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
